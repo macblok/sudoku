@@ -1,0 +1,9 @@
+.settings/
+.classpath
+.project
+.class
+.logo
+/target/
+.DS_Store
+/bin/
+komentarz_do_zadania.txt
